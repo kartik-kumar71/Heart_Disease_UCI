@@ -1,6 +1,6 @@
 # Heart Disease UCI
 
-Machine Learning Algorithms used
+Machine Learning Algorithms used:
 
 1. K Nearest Neigbours
 2. SVM
